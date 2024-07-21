@@ -3,6 +3,6 @@
 		"title": "Kaon",
 		"url": "https://explorer.testnet.kaon.one/",
 		"group": "Testnets",
-		"icon": "https://explorer.testnet.kaon.one/assets/favicon/network_icon.svg"
+		"icon": "https://raw.githubusercontent.com/akropolisio/blockscout-frontend/main/public/assets/network_icon.svg"
 	}
 ]
